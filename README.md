@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Gaurav 👋
 
-<!--
-**gauravDombale/gauravDombale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer based in Pune, India. I build production-grade web apps and AI-powered systems — from React/Next.js frontends to LangGraph multi-agent pipelines and RAG architectures.
 
-Here are some ideas to get you started:
+Currently at **Partex.AI**, where I've shipped five end-to-end products in under a year across pharma, compliance, and AI SaaS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+**Frontend** — React, Next.js, TypeScript, Redux, TailwindCSS, GraphQL  
+**Backend** — Node.js, Python, FastAPI, Flask, Express, REST, GraphQL  
+**AI/ML** — LangChain, LangGraph, RAG pipelines, Weaviate, Prompt Engineering  
+**Infra** — Docker, Redis, PostgreSQL, MongoDB, AWS, GCP, Auth0  
+
+
