@@ -6,7 +6,7 @@ Currently at **Partex.AI**, where I've shipped five end-to-end products in under
 
 ## What I work with
 **Frontend** — React, Next.js, TypeScript, Redux, TailwindCSS, GraphQL  
-**Backend** — Node.js, Python, FastAPI, Flask, Express, REST 
+**Backend** — Node.js, Python, FastAPI, Flask, Express, REST
 **AI/ML** — LangChain, LangGraph, RAG pipelines, Weaviate, Prompt Engineering  
 **Infra** — Docker, Redis, PostgreSQL, MongoDB, AWS, GCP, Auth0  
 
